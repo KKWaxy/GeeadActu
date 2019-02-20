@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Identifiant.qml</file>
+        <file>Accueil.qml</file>
+        <file>Images/user.png</file>
+        <file>delegates/newsDelegate.qml</file>
+        <file>icons/menu_32.png</file>
+        <file>icons/search_48.png</file>
+        <file>Images/Geead.png</file>
+        <file>icons/About_32.png</file>
+        <file>icons/Help_32.png</file>
+        <file>icons/MonProfil_32.png</file>
+        <file>icons/Search_32.png</file>
+        <file>icons/deconect_32.png</file>
+        <file>icons/Contacts_32.png</file>
+        <file>icons/Left_32.png</file>
+        <file>icons/update_32.png</file>
+        <file>sources/news/ArticlesView.qml</file>
+        <file>sources/news/models/NewModel.qml</file>
+        <file>sources/SearchDrawer.qml</file>
+        <file>sources/news/NewsSplitView.qml</file>
+        <file>sources/news/models/ArticleModel.qml</file>
+        <file>sources/Geead.qml</file>
+        <file>sources/news/models/images/Artboard 10.png</file>
+        <file>sources/aboutHelp/HelpAbout.qml</file>
+    </qresource>
+</RCC>
